@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! I am majoring in Artificial Intelligence and currently learning Python and C. I am very interested in AI models like LLaMA and ChatGPT, and I am eager to explore various projects using these technologies. I enjoy growing and exploring new technologies with others. Follow my journey on GitHub! 👋
 
 <!--
 **kanodap/kanodap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
