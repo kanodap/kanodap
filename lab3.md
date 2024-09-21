@@ -4,7 +4,7 @@
 
 ### Proposal
 ---
-I am planning to make a computer vision software that detects objects in images.
+I am planning to make a computer vision software that detects objects in images.  
 In order to build it, I will use OpenCV, deep learning libraries such as [TensorFlow](https://www.tensorflow.org/?hl=ko) or [PyTorch](https://www.tensorflow.org/?hl=ko), and other open-source software.
 
 For example, the objects in the following images were detected using [MMDetection](https://github.com/open-mmlab/mmdetection):  
