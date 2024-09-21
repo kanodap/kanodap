@@ -18,6 +18,7 @@ For example, the objects in the following images were detected using [MMDetectio
 - TensorFlow
 - openmmlab
 - Package manager
+
 *Installation*
 In a bash terminal, run the following commands (*Do NOT actually run these commands on your computer*):
 
