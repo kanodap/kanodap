@@ -9,6 +9,7 @@ I am planning to make a computer vision software that detects objects in images.
 In order to build it, I will use OpenCV, deep learning libraries, such as [TensorFlow](https://www.tensorflow.org/?hl=ko) or [PyTorch](https://www.tensorflow.org/?hl=ko), and other open-source software.  
 
 For example, the objects in the following images were detected using [MMDetection](https://github.com/open-mmlab/mmdetection):  
+
 ![Detected Objects](https://user-images.githubusercontent.com/12907710/137271636-56ba1cd2-b110-4812-8221-b4c120320aa9.png)
 
 ---
