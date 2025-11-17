@@ -43,8 +43,8 @@ and **improve their quality of life** through those experiences.
 
 ### 🤝 Let’s Connect
 
-- LinkedIn: [add your link here]
-- Email: [add your email here]
+- LinkedIn: https://www.linkedin.com/in/seiyon-cho-431196347/
+- Email: toma12345@gachon.ac.kr
 
 > I want to help create a world where  
 > people can **play more, and play more diversely**.  
